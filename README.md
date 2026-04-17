@@ -1,23 +1,30 @@
 ## Hi there 👋 I'm Swayam Patel
-🎓 **Data Science Graduate** from RMIT University (Advanced Data Science)  
-🔍 Passionate about **AI, machine learning**, and turning data into real-world impact  
-💡 I build end-to-end projects that combine **data engineering, analytics**, and **intelligent applications**  
-🚀 Currently seeking opportunities in **Data Science, ML Engineering, and Data Analytics**
+💼 **Consultant – Data & AI** currently working at **Kantheri Consulting**  
+🎓 RMIT University graduate in **Data Science (Advanced Data Science)**  
+🔍 Passionate about **AI, machine learning, analytics, and intelligent data platforms**  
+💡 I build end-to-end solutions across **data engineering, analytics, AI systems, and intelligent applications**  
+🚀 Interested in impactful work across **Data Science, ML Engineering, AI Engineering, and Data Platforms**
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swayammpatel) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://swayamworks.online) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swayammpatel2310@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swayammpatel) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://swayamworks.online) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swayammpatel2310@gmail.com)
 
 ---
 
 ## 💼 Experience Highlights:
+- 🏢 **Consultant – Data & AI @ Kantheri Consulting** (2026 - Present)
+  - Working on AI agent platform workflows and operator-facing use cases
+  - Contributing to runtime workflow design including routing, streaming, checkpointing, and approval-based flows
+  - Set up HubSpot CRM and enriched 500+ leads to support technical outreach and opportunity development
+
 - 🏢 **Data Science Intern @ Focus Bear** (Mar 2025 - Jul 2025)
   - Built cohort analytics dashboard for 1,000+ users
-  - Achieved 95% performance improvement in data pipeline optimization
+  - Achieved 95% performance improvement in data pipeline optimisation
   - Reduced hosting costs to <$1/month using AWS Lambda
 
 ---
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
